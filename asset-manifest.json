@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sandymandy-0817/kurlly.git/static/css/main.70e5f9c6.css",
+    "main.js": "/sandymandy-0817/kurlly.git/static/js/main.6c109d76.js",
+    "static/js/453.32b06087.chunk.js": "/sandymandy-0817/kurlly.git/static/js/453.32b06087.chunk.js",
+    "index.html": "/sandymandy-0817/kurlly.git/index.html",
+    "main.70e5f9c6.css.map": "/sandymandy-0817/kurlly.git/static/css/main.70e5f9c6.css.map",
+    "main.6c109d76.js.map": "/sandymandy-0817/kurlly.git/static/js/main.6c109d76.js.map",
+    "453.32b06087.chunk.js.map": "/sandymandy-0817/kurlly.git/static/js/453.32b06087.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70e5f9c6.css",
+    "static/js/main.6c109d76.js"
+  ]
+}
